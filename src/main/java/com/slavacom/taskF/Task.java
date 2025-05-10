@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.BitSet;
 import java.util.PriorityQueue;
 
-class Task {
+public class Task {
 
     static class Pair implements Comparable<Pair> {
         int diff;
