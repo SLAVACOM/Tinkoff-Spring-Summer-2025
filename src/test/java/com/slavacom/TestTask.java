@@ -1,4 +1,4 @@
-package test.java.com.slavacom.tests;
+package test.java.com.slavacom;
 
 import org.junit.jupiter.api.Test;
 
