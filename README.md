@@ -44,5 +44,6 @@ Tinkoff-Sping-Summer-2025
 MIT License. Решения предназначены для учебных целей.
 
 Автор: SLAVACOM
+
 Программа: Tinkoff T-Start 2025
 
