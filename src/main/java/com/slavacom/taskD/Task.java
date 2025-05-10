@@ -18,7 +18,7 @@ class Task {
             array[i] = Integer.parseInt(st.nextToken());
         }
 
-        List<Integer>[] lists = new ArrayList[11];
+        ArrayList[] lists = new ArrayList[11];
         for (int i = 1; i <= 10; i++) {
             lists[i] = new ArrayList<>();
         }
@@ -46,7 +46,7 @@ class Task {
             }
 
             int right = Math.max(maxCurrent, prev);
-            result += (long) right;
+            result += right;
             prev = right;
 
         }
