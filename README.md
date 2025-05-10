@@ -28,6 +28,7 @@ Tinkoff-Sping-Summer-2025
 │
 ├── README.md
 └── .gitignore
+```
 
 ## ✅ Выполненные задачи
 ### Статусы
